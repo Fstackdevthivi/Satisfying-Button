@@ -59,24 +59,3 @@ body {
   opacity: 1;
   transform: translate(-50%, -50%) scale(1.5);
 }
-
-/* //Animation d'apparition 
-@keyframes textAppear {
-  0% {
-    transform: scale(0.8);
-    opacity: 0;
-  }
-  50% {
-    transform: scale(1.1);
-    opacity: 1;
-  }
-  100% {
-    transform: scale(1);
-  }
-}
-
- //Bouton 
-.satisfying-button.animated {
-  animation: textAppear 0.6s ease-out;
-}
-*/
